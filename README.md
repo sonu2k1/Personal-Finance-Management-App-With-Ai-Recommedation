@@ -1,5 +1,5 @@
 # Personal-Finance-Management-App-With-Ai-Recommedation
- <h3 align="center"><a href="personal-finance-management-app-with-ai-recommedation.vercel.app"><strong>Want to see live preview »</strong></a></h3>
+ <h3 align="center"><a href="https://personal-finance-management-app-with-ai-recom-sonu2k1s-projects.vercel.app/"><strong>Want to see live preview »</strong></a></h3>
 
 <img width="1470" alt="Screenshot " src="https://github.com/user-attachments/assets/1bc50b85-b421-4122-8ba4-ae68b2b61432">
 <!-- <h2>Dashboard</h2>
