@@ -46,6 +46,5 @@ A modern and secure personal finance management platform that helps users track 
 - Gemini API access
 - Clerk account for auth
 - Arcjet account for security configuration
-- ..........
 
 
