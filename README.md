@@ -32,7 +32,7 @@ A modern and secure personal finance management platform that helps users track 
 | Authentication  | Clerk                                      |
 | Security        | Arcjet                                     |
 | Database        | Supabase, Prisma ORM                       |
-| AI & Automation | Gemini API (Bill Scanning + Email Insights) |
+| AI & Automation | Gemini API (Bill Scanning + Email Insights)|
 
 ---
 
