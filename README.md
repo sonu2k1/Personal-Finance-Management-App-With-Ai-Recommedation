@@ -31,7 +31,7 @@ A modern and secure personal finance management platform that helps users track 
 | Backend         | Node.js, Gemini API, Prisma                |
 | Authentication  | Clerk                                      |
 | Security        | Arcjet                                     |
-| Database        | Supabase, Prisma ORM              |
+| Database        | Supabase, Prisma ORM                       |
 | AI & Automation | Gemini API (Bill Scanning + Email Insights) |
 
 ---
