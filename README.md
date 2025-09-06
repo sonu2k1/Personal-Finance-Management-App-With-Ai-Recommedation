@@ -21,7 +21,7 @@ A modern and secure personal finance management platform that helps users track 
 - 🎨 **Sleek UI** – Built with shadcn/ui and Tailwind CSS for a clean and modern interface.
 - 🔄 **Real-time Sync** – Leverages Supabase and Prisma for fast, scalable, and real-time database operations.
 
----
+----------------------------------------------
 
 ## 🧱 Tech Stack
 
