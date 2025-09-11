@@ -23,7 +23,7 @@ A modern and secure personal finance management platform that helps users track 
 
 ----------------------------------------------
 
-## 🧱 Tech Stack
+## 🧱 Tech Stack-
 
 | Category        | Technology                        |
 |-----------------|--------------------------------------------|
