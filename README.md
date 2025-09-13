@@ -10,7 +10,7 @@ A modern and secure personal finance management platform that helps users track 
 
 ---
 
-## ✨ Features
+## ✨ Features:
 
 - 📊 **AI-Powered Finance Insights** – Scan uploaded bills/receipts using Gemini API to extract spending patterns and get personalized financial insights via email.
 - 📥 **Email Reports** – Regular AI-generated financial summaries and insights sent directly to your inbox.
